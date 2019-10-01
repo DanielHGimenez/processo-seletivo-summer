@@ -1,3 +1,3 @@
 # processo-seletivo-summer
 
-Projeto feito para o processo seletivo de verão de uma empresa da qual eu não me lembro o nome.
+Projeto feito em Janeiro de 2018 para o processo seletivo de uma empresa da qual eu não me lembro o nome.
